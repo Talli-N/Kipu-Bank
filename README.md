@@ -80,7 +80,7 @@ KipuBank allows users to:
 | Parameter | Value |
 |------------|--------|
 | **Network** | Sepolia Testnet |
-| **Contract Address** | `0x...` ← *(add your deployed address here)* |
+| **Contract Address** |https://sepolia.etherscan.io/address/0x9727BcB8B4528a2247d84b454975894D11eb3BcD|
 | **Compiler** | 0.8.30 |
 | **License** | MIT |
 
